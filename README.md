@@ -22,9 +22,13 @@
   Basicamente o desafio é consumir uma API gratuita, que fornece dados da grande franquia Star Wars.
   
   O projeto foi desenvolvido utilizando ReactJS e Bootstrap. Para consumo da API foi usado o axios, onde permitiu o recebimento dos dados.
+  
   No processo de lista os personagens, percebi que a API só fornece 10 objetos por página, logo, tive que fazer a lógica para realizar a paginação e assim consumir todos os dados. Além de colocar algumas características extras como Altura e Peso dos personagens.
+  
   Ao realizar o mesmo processo com as naves e armas, percebi que a API não fornece nenhum endpoint para as armas, tornando impossível o consumo desses dados. Entretanto, realizei o consumo das naves e inseri algumas características como modelo, quem fabricou e quandidade de passageiros.
+  
   As características optei por realizar de forma dinâmica onde o usuário pode ocultar e mostrar as informações através de um botão.
+  
   Em relação ao login, foi pedido para realizar o processo de autenticação via JWT, todavia, a API não fornece token para autenticação, uma vez que a mesma é gratuita. Impossibitando o login via JWT. Para manter a idéia da autenticação usei o React-DOM e o Context-API, passando como usuário="admin" e senha="admin".
   
   Todo o processo foi um grande desafio e fico feliz por tê-lo concluido.
