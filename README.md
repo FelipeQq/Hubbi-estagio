@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://felipequeiroz-sds2.netlify.app/">
-    <img src="[UPAR LOGO HUBBI]" height="150" width="175" alt="Logo da DS Delivery" />
+    <img src="[UPAR LOGO HUBBI]" height="150" width="175" alt="UPAR LOGO HUBBI" />
   </a>
 </p>
 
