@@ -27,7 +27,7 @@
   
   As características optei por realizar de forma dinâmica onde o usuário pode ocultar e mostrar as informações através de um botão.
   
-  Em relação ao login, foi pedido para realizar o processo de autenticação via JWT, todavia, a API não fornece token para autenticação, uma vez que a mesma é gratuita. Impossibitando o login via JWT. Para manter a idéia da autenticação usei o React-DOM e o Context-API, passando como usuário="admin" e senha="admin".
+  Para a idéia da autenticação usei o React-DOM e o Context-API, passando como usuário="admin" e senha="admin".
   
   Todo o processo foi um grande desafio e fico feliz por tê-lo concluido.
   
