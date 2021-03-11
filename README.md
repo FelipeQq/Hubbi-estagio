@@ -21,7 +21,7 @@
   
   O projeto foi desenvolvido utilizando ReactJS e Bootstrap. Para consumo da API foi usado o axios, onde permitiu o recebimento dos dados.
   
-  No processo de lista os personagens, percebi que a API só fornece 10 objetos por página, logo, tive que fazer a lógica para realizar a paginação e assim consumir todos os dados. Além de colocar algumas características extras como Altura e Peso dos personagens.
+  No processo de lista dos personagens, percebi que a API só fornece 10 objetos por página, logo, tive que fazer a lógica para realizar a paginação e assim consumir todos os dados. Além de colocar algumas características extras como Altura e Peso dos personagens.
   
   Ao realizar o mesmo processo com as naves e armas, percebi que a API não fornece nenhum endpoint para as armas, tornando impossível o consumo desses dados. Entretanto, realizei o consumo das naves e inseri algumas características como modelo, quem fabricou e quandidade de passageiros.
   
