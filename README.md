@@ -14,7 +14,7 @@
 </p>
 
 ## Layout WEB
-![GIF 1](UPAR GIF)
+![GIF 1](https://github.com/FelipeQq/Hubbi-estagio/blob/main/gif-app.gif)
 
 # Sobre
 
