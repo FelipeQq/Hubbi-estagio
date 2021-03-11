@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://felipequeiroz-sds2.netlify.app/">
-    <img src="[UPAR LOGO HUBBI]" height="150" width="175" alt="UPAR LOGO HUBBI" />
+    <img src="https://github.com/FelipeQq/Hubbi-estagio/blob/main/logo-.png" height="150" width="175" alt="UPAR LOGO HUBBI" />
   </a>
 </p>
 
