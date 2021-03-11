@@ -23,7 +23,7 @@
   
   No processo de lista dos personagens, percebi que a API só fornece 10 objetos por página, logo, tive que fazer a lógica para realizar a paginação e assim consumir todos os dados. Além de colocar algumas características extras como Altura e Peso dos personagens.
   
-  Ao realizar o mesmo processo com as naves e armas, percebi que a API não fornece nenhum endpoint para as armas, tornando impossível o consumo desses dados. Entretanto, realizei o consumo das naves e inseri algumas características como modelo, quem fabricou e quandidade de passageiros.
+  Ao realizar o mesmo processo com as naves e armas, percebi que a API não fornece nenhum endpoint para as armas, tornando impossível o consumo desses dados. Entretanto, realizei o consumo das naves e inseri algumas características como modelo, quem fabricou e quantidade de passageiros.
   
   As características optei por realizar de forma dinâmica onde o usuário pode ocultar e mostrar as informações através de um botão.
   
