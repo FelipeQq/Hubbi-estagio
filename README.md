@@ -57,13 +57,13 @@
 
 ```bash
 # clonar repositório
-git clone https://github.com/FelipeQq/nlw-moveon.git
-
-# entrar na pasta do projeto front end
-cd front-web
+git clone https://github.com/FelipeQq/Hubbi-estagio.git
 
 # instalar dependências
 npm install
+
+# Na pasta do projeto
+npm start
 ```
 
 # Autor
