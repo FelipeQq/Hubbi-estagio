@@ -14,7 +14,7 @@
 </p>
 
 ## Layout WEB
-<img  width="100%" src="https://github.com/FelipeQq/Hubbi-estagio/blob/main/gif-app.gif">
+<img  width="100%" src="https://github.com/FelipeQq/Hubbi-estagio/blob/main/video-app.mkv">
 
 # Sobre
 
