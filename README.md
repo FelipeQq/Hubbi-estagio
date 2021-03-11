@@ -27,7 +27,7 @@
   
   As características optei por realizar de forma dinâmica onde o usuário pode ocultar e mostrar as informações através de um botão.
   
-  Para a idéia da autenticação usei o React-DOM e o Context-API, passando como usuário="admin" e senha="admin".
+  Na autenticação foi passado como usuário="admin" e senha="admin".
   
   Todo o processo foi um grande desafio e fico feliz por tê-lo concluido.
   
