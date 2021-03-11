@@ -64,6 +64,10 @@ npm install
 
 # Na pasta do projeto
 npm start
+
+# Login
+Usuario = admin
+Senha = admin
 ```
 
 # Autor
